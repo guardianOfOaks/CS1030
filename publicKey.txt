@@ -1,0 +1,21 @@
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+Comment: User-ID:	Sage Johnson <sjohn364@msudenver.edu>
+Comment: Valid from:	2/16/2023 5:23 PM
+Comment: Valid until:	2/16/2025 12:00 PM
+Comment: Type:	255-bit EdDSA (secret key available)
+Comment: Usage:	Signing, Encryption, Certifying User-IDs
+Comment: Fingerprint:	A18D18A0ACAAD0A99453B89BACF49E6F8C8074A1
+
+
+mDMEY+7I+RYJKwYBBAHaRw8BAQdApbOkGAt6hnb+gUh9eeq/ODxWNIkcssEawRLq
+/cH3Cee0JVNhZ2UgSm9obnNvbiA8c2pvaG4zNjRAbXN1ZGVudmVyLmVkdT6ImQQT
+FgoAQRYhBKGNGKCsqtCplFO4m6z0nm+MgHShBQJj7sj5AhsDBQkDw2y3BQsJCAcC
+AiICBhUKCQgLAgQWAgMBAh4HAheAAAoJEKz0nm+MgHShvXsBAJmXRbXvP8JjzT9V
+z10qwEM3sbCPy1z9r++1Ml8/AFw4AQD0QzBVLgjjwiT6lvDOkVB3KEQ0vksMecpC
+6BXp7XGFA7g4BGPuyPkSCisGAQQBl1UBBQEBB0D35MrZSVjE5e8fQ6SR3yoiUQGD
+d9d+riG293psPMfdFAMBCAeIfgQYFgoAJhYhBKGNGKCsqtCplFO4m6z0nm+MgHSh
+BQJj7sj5AhsMBQkDw2y3AAoJEKz0nm+MgHShKEkA/2PH1DxFTfpFrLbcKupQC6Kp
+Dex1ZGtprRrNnUv8xQbsAQD+wUmhug8Ci38yjS4VkD5JpXk+8MhTrm9/IOw+2TSw
+Cg==
+=BzxU
+-----END PGP PUBLIC KEY BLOCK-----
